@@ -1,7 +1,7 @@
 package leccion2.claseabstracta;
 
-import leccion1.Triangulo;
 import leccion1.ManejadorFigurasGeometricas;
+import leccion1.Triangulo;
 
 public class EjemploClaseAbstracta {
 
