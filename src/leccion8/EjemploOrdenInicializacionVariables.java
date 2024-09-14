@@ -13,15 +13,10 @@ public class EjemploOrdenInicializacionVariables {
         boolean -> false
         Object y derivados -> null
     */
-
     public static final String variable = "Hola";
-
     private int x = getX() + getY(); // x = getX() + y -> genera error
     private int y = getX() + getY();
     private int z = getX() + getY() + getZ();
-
-
-
 
     public EjemploOrdenInicializacionVariables() {
     }
